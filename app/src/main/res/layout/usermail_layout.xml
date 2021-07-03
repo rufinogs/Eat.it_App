@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:background="@drawable/back">
+
+<EditText
+    android:id="@+id/name"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:textStyle="bold"
+    android:textSize="25sp"
+    android:textColor="@color/gray"
+    android:textAlignment="textStart"
+    android:text="Name: "
+    android:layout_marginLeft="10sp"
+    android:gravity="center_horizontal"
+    android:layout_marginTop="180sp"/>
+
+    <EditText
+        android:id="@+id/surname"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:textSize="25sp"
+        android:textColor="@color/gray"
+        android:textAlignment="textStart"
+        android:text="Surname: "
+        android:layout_marginLeft="10sp"
+        android:gravity="center_horizontal"
+        android:layout_marginTop="30sp"/>
+
+
+    <Button
+    android:id="@+id/LOG"
+    android:layout_width="180dp"
+    android:layout_height="70dp"
+    android:layout_marginLeft="100dp"
+    android:layout_marginTop="300dp"
+    android:onClick="runLog"
+    android:text="Log in"
+    android:textAlignment="center"
+    android:translationX="10dp"
+    android:translationY="-235dp"
+    android:translationZ="20dp" />
+
+
+</LinearLayout>
