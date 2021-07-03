@@ -1,6 +1,6 @@
 
 # Eat.it_App
-Final Project In mobile app development. I have developed and App that looks like an Uber Eats. Using Kotlin and Android Studio and SQl for the database of the Clients and the Orderings.
+Final Project In Mobile App Development in The AGH University(Krakow, PL). I have developed and App that looks like an Uber Eats. Using Kotlin and Android Studio and SQl for the database of the Clients and the Orderings.
 
 Some screenshots of the project:
 
