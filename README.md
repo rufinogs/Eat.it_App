@@ -1,6 +1,6 @@
 
 # Eat.it_App
-Final Project In mobile app development. I have developed and App that looks like an Uber Eats. Using Kotlin and Android Studio.
+Final Project In mobile app development. I have developed and App that looks like an Uber Eats. Using Kotlin and Android Studio and SQl for the database of the Clients and the Orderings.
 
 Some screenshots of the project:
 
@@ -21,9 +21,6 @@ Some screenshots of the project:
 
 
 <img width="848" alt="Captura de pantalla 2021-06-10 a las 12 42 43" src="https://user-images.githubusercontent.com/61109776/124353512-3ced5280-dc07-11eb-9cf7-fe6599874cb6.png">
-                                                                          
-                                                                          
-                                                                          
-<img width="841" alt="Captura de pantalla 2021-06-10 a las 12 42 49" src="https://user-images.githubusercontent.com/61109776/124353518-41b20680-dc07-11eb-8e5a-d70c5209c776.png">
+                                                      
 
 
