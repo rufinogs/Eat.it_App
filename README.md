@@ -3,5 +3,6 @@ Final Project In mobile app development. I have developed and App that looks lik
 
 Some screenshots of the project:
 
-<img src="Eat.it_App/Photos of the project/Captura de pantalla 2021-06-10 a las 12.42.15.png" alt="Italian Trulli">
+<img width="861" alt="Captura de pantalla 2021-06-10 a las 12 42 21" src="https://user-images.githubusercontent.com/61109776/124353352-3e6a4b00-dc06-11eb-9b26-527e65be6a62.png">
+
 
