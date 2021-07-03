@@ -20,7 +20,7 @@ Some screenshots of the project:
 
 
 
-<img width="848" alt="Captura de pantalla 2021-06-10 a las 12 42 43" src="https://user-images.githubusercontent.com/61109776/124353512-3ced5280-dc07-11eb-9cf7-fe6599874cb6.png
+<img width="848" alt="Captura de pantalla 2021-06-10 a las 12 42 43" src="https://user-images.githubusercontent.com/61109776/124353512-3ced5280-dc07-11eb-9cf7-fe6599874cb6.png">
                                                                           
                                                                           
                                                                           
